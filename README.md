@@ -101,7 +101,7 @@ Contributions are welcome! If you'd like to contribute, please send your suggest
 ---
 
 ## License
-This project is licensed under the **MIT License**. Refer to the `LICENSE` file for more details on usage restrictions and permissions.
+This project is licensed under the **GNU GPL3.0**. Refer to the `LICENSE` file for more details on usage restrictions and permissions.
 
 ---
 
